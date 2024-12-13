@@ -2,6 +2,24 @@
 
 [English Document](README_en.md)
 
+此reo为自签编译项目
+
+## 自签
+
+下载 Autox.v6.APK [https://github.com/Beats0/AutoX/releases](https://github.com/Beats0/AutoX/releases)
+
+编译环境
+
+```
+Android studio Ladybug |2024.2.1 Patch 2
+Build #A1-242 23339 11.2421.12550806, buit on October 25,2024
+Runtime version:21.0.3+-12282718-6509.11 amd64VM: OpenJDk 64-Bit Server VM by JetBrains s.r.o.
+
+androidGradlePlugin 8.7.2
+
+gradle-8.9
+```
+
 ## 简介
 
 一个支持无障碍服务的Android平台上的JavaScript 运行环境 和 开发环境，其发展目标是类似JsBox和Workflow。
